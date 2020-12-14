@@ -11,6 +11,7 @@ module.exports = {
     description: `Pratice gatsby for learning more about this feature`,
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-json`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
